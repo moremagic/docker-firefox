@@ -1,5 +1,7 @@
-# docker-xeyes
+# docker-firefox
 ## quick start
 $ docker run -d -p 22:22 docker-xeyes  
 $ ssh -Y root@hostname  
-$ xeyes &  
+$ ibus-setup
+$ firefox &
+
